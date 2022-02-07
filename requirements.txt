@@ -6,7 +6,7 @@ gym==0.21.0
 scipy==1.8.0
 stable-baselines==2.10.2
 tensorflow==2.8.0
-tensorflow-estimator==1.14.0
+tensorflow-estimator==2.8.0
 tweepy==4.5.0
 file-read-backwards==2.0.0
 numpy==1.22.2

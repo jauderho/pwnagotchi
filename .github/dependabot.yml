@@ -10,6 +10,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    commit-message:
+      prefix: gha
 
   # Maintain dependencies for Python 
   - package-ecosystem: "pip"
@@ -18,7 +20,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 50
     commit-message:
-      prefix: MAINT
+      prefix: python
       
   # Maintain dependencies for Python 
   - package-ecosystem: "npm"
@@ -26,4 +28,4 @@ updates:
     schedule:
       interval: "daily"
     commit-message:
-      prefix: MAINT     
+      prefix: node     

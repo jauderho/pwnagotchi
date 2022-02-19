@@ -44,4 +44,5 @@ jobs:
         with:
           check_filenames: true
           ignore_words_file: .codespellignore
-          skip: voice.po,jquery*,jqplot*
+          skip: voice.po,jquery*,jqplot*,dfrobot*
+

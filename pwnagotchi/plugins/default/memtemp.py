@@ -7,7 +7,7 @@
 # Updated 18-10-2019 by spees <speeskonijn@gmail.com>
 # - Changed the place where the data was displayed on screen
 # - Made the data a bit more compact and easier to read
-# - removed the label so we wont waste screen space
+# - removed the label so we won't waste screen space
 # - Updated version to 1.0.1
 #
 # 20-10-2019 by spees <speeskonijn@gmail.com>

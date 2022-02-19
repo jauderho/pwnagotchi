@@ -259,7 +259,7 @@ def _extract_version(filename):
 
 def _get_available():
     """
-    Get all availaible plugins
+    Get all available plugins
     """
     available = dict()
     for filename in glob.glob(os.path.join(SAVE_DIR, "*.py")):

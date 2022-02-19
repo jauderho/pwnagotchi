@@ -77,7 +77,7 @@ def mem_usage():
 
 def _cpu_stat():
     """
-    Returns the splitted first line of the /proc/stat file
+    Returns the split first line of the /proc/stat file
     """
     with open('/proc/stat', 'rt') as fp:
         return list(map(int,fp.readline().split()[1:]))

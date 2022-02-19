@@ -54,7 +54,7 @@ class DottedTomlEncoder(TomlEncoder):
                 if isinstance(value, dict):
                     toadd, _ = self.dump_sections(value, pre + qsection)
                     retstr += toadd
-                    # separte sections
+                    # separate sections
                     if not retstr.endswith('\n\n'):
                         retstr += '\n'
                 else:

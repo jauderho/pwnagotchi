@@ -165,11 +165,11 @@ class Epoch(object):
             self.bored_for = 0
 
         if self.inactive_for >= self.config['personality']['sad_num_epochs']:
-            # sad > bored; cant be sad and bored
+            # sad > bored; can't be sad and bored
             self.bored_for = 0
             self.sad_for += 1
         elif self.inactive_for >= self.config['personality']['bored_num_epochs']:
-            # sad_treshhold > inactive > bored_treshhold; cant be sad and bored
+            # sad_treshhold > inactive > bored_treshhold; can't be sad and bored
             self.sad_for = 0
             self.bored_for += 1
         else:

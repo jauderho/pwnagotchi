@@ -158,7 +158,7 @@
     apt:
       update_cache: yes
 
-  - name: remove unecessary apt packages
+  - name: remove unnecessary apt packages
     apt:
       name: "{{ packages.apt.remove }}"
       state: absent
@@ -417,7 +417,7 @@
       enabled: yes
     with_items: "{{ services.enable }}"
 
-  - name: disable unecessary services
+  - name: disable unnecessary services
     systemd:
       name: "{{ item }}"
       state: stopped

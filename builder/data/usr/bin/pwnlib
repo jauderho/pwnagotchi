@@ -41,7 +41,7 @@ stop_monitor_interface() {
   ifconfig mon0 down && iw dev mon0 del
 }
 
-# returns 0 if the specificed network interface is up
+# returns 0 if the specified network interface is up
 is_interface_up() {
   if grep -qi 'up' /sys/class/net/$1/operstate; then
     return 0

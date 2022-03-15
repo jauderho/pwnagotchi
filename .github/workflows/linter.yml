@@ -36,6 +36,7 @@ jobs:
             files.pythonhosted.org:443
             github.com:443
             pypi.org:443
+            rdfepirv2dm1prdstr09.blob.core.windows.net:443
             zrdfepirv2blaprdstr01a.blob.core.windows.net:443
             zrdfepirv2mwh01prdstr02a.blob.core.windows.net:443
           

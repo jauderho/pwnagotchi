@@ -3,7 +3,7 @@ requests==2.27.1
 PyYAML==6.0
 scapy==2.4.5
 gym==0.23.1
-scipy==1.8.0
+scipy==1.8.1
 stable-baselines==2.10.2
 tensorflow==2.9.0
 tensorflow-estimator==2.9.0

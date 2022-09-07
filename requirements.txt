@@ -5,7 +5,7 @@ scapy==2.4.5
 gym==0.25.2
 scipy==1.9.1
 stable-baselines==2.10.2
-tensorflow==2.9.2
+tensorflow==2.10.0
 tensorflow-estimator==2.10.0
 tweepy==4.10.1
 file-read-backwards==2.0.0

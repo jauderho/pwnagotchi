@@ -24,7 +24,7 @@ h5py==3.9.0; python_version >= '3.8'
 idna==3.4; python_version >= '3.5'
 inky==1.5.0
 itsdangerous==2.1.2; python_version >= '3.7'
-jax==0.4.13; python_version >= '3.8'
+jax==0.4.14; python_version >= '3.8'
 jinja2==3.1.2; python_version >= '3.7'
 keras==2.12.0; python_version >= '3.8'
 libclang==16.0.6

@@ -42,7 +42,7 @@ jobs:
             zrdfepirv2mwh01prdstr02a.blob.core.windows.net:443
           
       - name: Checkout Code
-        uses: actions/checkout@v3 # v2
+        uses: actions/checkout@v4 # v2
         with:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0

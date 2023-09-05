@@ -22,7 +22,7 @@ jobs:
           github.com:443
           semgrep.dev:443
         
-    - uses: actions/checkout@v3 # v2
+    - uses: actions/checkout@v4 # v2
     
     - uses: returntocorp/semgrep-action@0bdb313d58a33cb6fe166b1807f9f06885641184 # v1
       with:

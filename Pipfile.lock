@@ -172,12 +172,12 @@
         },
         "flask": {
             "hashes": [
-                "sha256:3232e0e9c850d781933cf0207523d1ece087eb8d87b23777ae38456e2fbe7c6e",
-                "sha256:822c03f4b799204250a7ee84b1eddc40665395333973dfb9deebfe425fefcb7d"
+                "sha256:34e815dfaa43340d1d15a5c3a02b8476004037eb4840b34910c6e21679d288f3",
+                "sha256:ceb27b0af3823ea2737928a4d99d125a06175b8512c445cbd9a9ce200ef76842"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==3.0.2"
+            "version": "==3.0.3"
         },
         "flask-cors": {
             "hashes": [
@@ -360,11 +360,11 @@
         },
         "keras": {
             "hashes": [
-                "sha256:55558ea228dc38e7667874fd2e83eaf7faeb026e2e8615b36a8616830f7e303b",
-                "sha256:b5d45f0b5116b11db502da00bd501592364325d01724e6cb2032711e3e32677e"
+                "sha256:e3ff572c872ebb24d2ae62d4e12c3579ccd0019d0f0adaf3cb7dc610e77e84c1",
+                "sha256:ea021fe23012654c169c272b951bdda5ee28479f578f7d4addbff96cc97af347"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==3.1.1"
+            "version": "==3.2.0"
         },
         "libclang": {
             "hashes": [

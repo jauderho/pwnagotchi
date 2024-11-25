@@ -63,6 +63,6 @@ typing-extensions==4.12.2
 urllib3==2.2.3
 websockets==13.1
 werkzeug==3.0.4
-wheel==0.44.0
+wheel==0.45.1
 wrapt==1.16.0
 wtforms==3.1.2

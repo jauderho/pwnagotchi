@@ -64,5 +64,5 @@ urllib3==2.2.3
 websockets==13.1
 werkzeug==3.0.4
 wheel==0.44.0
-wrapt==1.16.0
+wrapt==1.17.0
 wtforms==3.1.2

@@ -58,7 +58,7 @@ tensorflow==2.17.0
 tensorflow-estimator==2.15.0
 termcolor==2.5.0
 toml==0.10.2
-tweepy==4.14.0
+tweepy==4.15.0
 typing-extensions==4.12.2
 urllib3==2.2.3
 websockets==13.1

@@ -49,7 +49,7 @@ rich==13.9.2
 scapy==2.6.0
 scipy==1.14.1
 setuptools==75.1.0
-six==1.16.0
+six==1.17.0
 smbus2==0.4.3
 spidev==3.6
 tensorboard==2.17.1
